@@ -24,7 +24,7 @@ setup(
     description="A simple tool to merge docstrings from parent classes to child classes.",
     long_description=long_description,
     long_description_content_type='text/x-rst',
-    url="https://github.com/bigdatabr/docmerge",
+    url="https://github.com/bressanmarcos/docmerge",
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
